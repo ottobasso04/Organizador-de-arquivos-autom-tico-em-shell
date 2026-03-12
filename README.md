@@ -1,0 +1,1 @@
+# Organizador-de-arquivos-autom-tico-em-shell
